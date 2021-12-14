@@ -15,7 +15,7 @@ Página web creada para Gobierno del Estado de Hidalgo, la cual cuenta con mas d
 &nbsp;
 
 
-[Consume Hidalgo](http://google.com.mx)
+[Consume Hidalgo](https://consume.hidalgo.com.mx)
 
 Página web creada para Gobierno del Estado de Hidalgo la cual cuenta con mas de 1500 registros y mas de 20,000 visitas desarrollada en React.
 
@@ -35,6 +35,7 @@ Página web creada para Gobierno del Estado de Hidalgo sobre una expo de financi
 
 
 [Semana Mujer MIPYME](http://semanamujermipyme.hidalgo.gob.mx/)
+
 En este espacio virtual de asistencia y cooperación empresarial en donde empresarias, emprendedoras y todas las profesionales en general podrán encontrar información de valor para su negocio, con la finalidad de brindarles herramientas para la reactivación económica. 
 
 ![Expofinanciamiento](images/mujermipyme.png)
