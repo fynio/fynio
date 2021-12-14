@@ -38,5 +38,17 @@ Página web creada para Gobierno del Estado de Hidalgo sobre una expo de financi
 
 En este espacio virtual de asistencia y cooperación empresarial en donde empresarias, emprendedoras y todas las profesionales en general podrán encontrar información de valor para su negocio, con la finalidad de brindarles herramientas para la reactivación económica. 
 
-![Expofinanciamiento](images/mujermipyme.png)
+![MujerMIPYME](images/mujermipyme.png)
+
+
+
+
+
+[Desarrollo de proveedores](https://desarrollodeproveedores.hidalgo.gob.mx/)
+
+Esta plataforma fue diseñada para apoyar a las empresas hidalguenses que buscan proveedores y el desarrollo de la mipymes que buscan nuevas alternativas de mercado.
+                    
+![DesarrolloDeProveedores](images/DesarrolloDeProveedores.png)
+
+
 
