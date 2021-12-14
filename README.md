@@ -34,3 +34,8 @@ Página web creada para Gobierno del Estado de Hidalgo sobre una expo de financi
 ![Expofinanciamiento](images/expofinanciera.png)
 
 
+[Semana Mujer MIPYME](http://semanamujermipyme.hidalgo.gob.mx/)
+En este espacio virtual de asistencia y cooperación empresarial en donde empresarias, emprendedoras y todas las profesionales en general podrán encontrar información de valor para su negocio, con la finalidad de brindarles herramientas para la reactivación económica. 
+
+![Expofinanciamiento](images/mujermipyme.png)
+
