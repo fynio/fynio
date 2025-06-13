@@ -1,4 +1,4 @@
-#  Rodrigo Garcia Trejo 
+# RGT
 #### Full stack Web Developer
 Soy un programador apasionado por el desarrollo web.
 
